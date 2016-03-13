@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://iamOcular.github.io
+title: Ocular
+tagline: Connected with the eyes or vision.
+description: Contact:<br />Email: ocular@ghostmail.com
+paginate: 5
